@@ -1,0 +1,37 @@
+{
+    "users": {
+        "1000": {
+            "u_id": 1000,
+            "email": "alex@email.com",
+            "password": "MyPassword",
+            "name_first": "Alex",
+            "name_last": "Culic",
+            "session_ids": [
+                2000
+            ],
+            "handle_str": "alexculic",
+            "permission_id": 1
+        },
+        "1001": {
+            "u_id": 1001,
+            "email": "John@email.com",
+            "password": "JohnsPassword",
+            "name_first": "John",
+            "name_last": "Doe",
+            "session_ids": [
+                2001
+            ],
+            "handle_str": "johndoe",
+            "permission_id": 2
+        }
+    },
+    "channels": {},
+    "channel_info": {},
+    "channel_standup": {},
+    "messages": {
+        "total": 0
+    },
+    "notifications": {},
+    "dms": {},
+    "dm_messages": {}
+}
